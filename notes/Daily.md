@@ -3,3 +3,4 @@
 1. Clone the reporsitory from github
 2. Train and test the model
 3. Push the changes to github
+4. Familiar with opencv
